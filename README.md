@@ -2,6 +2,29 @@
 
 Welcome to the Water Billing System! This console-based application enables you to calculate your monthly water bill based on the type of usage and monthly consumption.
 
+## Member details
+
+Stephanie Makori -S13/07829/22
+
+Sally Munga -S13/07782/22
+
+Sylvia Anyango-S13/10620/22
+
+Gilbert Omindeh - S13/07816/22
+
+Emmanuel Magothe - S13/07775/22
+
+Stephen Onyango- S13/07841/22
+
+Daniel Amani Karisa- S13/07763/22
+
+Seth Omondi - S13/04402/21
+
+Samuel Mathews - S13/07776/22
+
+Halkano Liban - S13/07771/22
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Usage Types](#usage-types)
